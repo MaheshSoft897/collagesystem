@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "name": "Tirth Patel",
+      "class": "BCA 3rd Year",
+      "roll": "101",
+      "mobile": "9876543210",
+      "address": "Ahmedabad"
+    },
+    {
+      "name": "Nirali Shah",
+      "class": "BCA 3rd Year",
+      "roll": "102",
+      "mobile": "9876543211",
+      "address": "Baroda"
+    }
+  ],
+  "results": [
+    {
+      "roll": "101",
+      "subject": "Math",
+      "marks": 88
+    },
+    {
+      "roll": "102",
+      "subject": "English",
+      "marks": 92
+    }
+  ],
+  "attendance": [
+    {
+      "roll": "101",
+      "present": 25,
+      "total": 30
+    },
+    {
+      "roll": "102",
+      "present": 28,
+      "total": 30
+    }
+  ],
+  "teachers": [
+    {
+      "name": "Prof. Mehta",
+      "subject": "Math"
+    },
+    {
+      "name": "Prof. Joshi",
+      "subject": "English"
+    }
+  ]
+}
